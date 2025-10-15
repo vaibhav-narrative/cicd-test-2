@@ -1,2 +1,3 @@
-test_suites:
-  - id: 68df844dfccc7acbb23e1fab
+tests:
+  - id: 68ef5b473209349d316642aa
+  - id: 68ef5c303209349d316642ae
