@@ -1,3 +1,3 @@
-tests:
-  - id: 68ef5b473209349d316642aa
-  - id: 68ef5c303209349d316642ae
+test_suites:
+  - id: 68ef5df1d196f47fe6d3e1c8
+  - id: 68ef5e16d196f47fe6d3e1cd
